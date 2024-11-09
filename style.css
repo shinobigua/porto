@@ -1,0 +1,29 @@
+#text{
+    color:blue;
+}
+.text-2{
+    color: yellow;
+}
+/* .button-1{
+    background-color: aqua;
+} */
+ #navcuy{
+    position: sticky;
+    top: 0;
+ }
+ .button-0:hover{
+    background-color:rgb(21, 192, 64);
+    transition: 0.5s;
+ }
+.button-1:hover{
+    background-color:rgb(21, 192, 64);
+    transition: 0.5s;
+}
+.button-2:hover{
+    background-color:rgb(21, 192, 64);
+    transition: 0.5s;
+}
+.contact{
+    background-color: rebeccapurple
+}
+
